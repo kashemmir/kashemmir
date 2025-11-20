@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashem Mir</h1>
 <h3 align="center">A passionate web developer and digital marketer from Bangladesh</h3>
 
-<p align="left"> <img src="https://www.readomania.com/storage/profile/dipof86941.9159/250_1afbfedefadd0cec760b23e17330ad6b.jpg" alt="kashemmir" /> </p>
 <p>Kashem Mir, also known as Mir Abul Kashem, is a web developer and digital marketer from Dhaka, Bangladesh. He was born in Manikganj and later moved to Savar, Dhaka, where he grew up. His father’s name is Mir Shahzahan Ali and his mother’s name is Rasheda Begum. Kashem completed his Honours degree in English at Gono University. He works with websites and digital marketing to help businesses grow online.</p>
 <p align="left"> <a href="https://github.com/kashemmir"><img src="https://i.pinimg.com/736x/b2/d7/fd/b2d7fdfb857a2e178aa10a443efc4e56.jpg" alt="kashemmir" /></a> </p>
 
